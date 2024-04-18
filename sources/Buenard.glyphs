@@ -20688,7 +20688,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The Buenard Project Authors (https://github.com/simoncozens/buenard)";
+value = "Copyright 2024 The Buenard Project Authors (https://github.com/googlefonts/buenard)";
 }
 );
 },
