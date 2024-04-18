@@ -20707,6 +20707,6 @@ value = "https://openfontlicense.org";
 }
 );
 unitsPerEm = 1000;
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 0;
 }
